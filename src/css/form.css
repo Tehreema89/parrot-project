@@ -1,0 +1,99 @@
+.addclient{
+
+    height: 70px;
+   
+    background-color: rgb(244, 239, 239);
+    margin: auto;
+   display: grid;
+    grid-template-columns:10fr 2fr ;
+  
+}
+.p1{
+    font-weight: bold;
+   padding-top: 15px;
+}
+.btn1{
+    background-color: goldenrod;
+    height: 35px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 130px;
+    font-weight: bold;
+}
+.companymail{
+    display: grid;
+    grid-template-columns: 1fr 6fr 6fr;
+}
+.label1{
+    font-weight: bold;
+    margin-top: 40px;
+}
+span{
+    color: red;
+    font-size: larger;
+}
+.input1{
+    width: 90%;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.mainphn{
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr;
+}
+.label2{
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.input2{
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.citydiv{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+}
+.label3{
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.input3{
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.input5{
+    width: 95%;
+    height: 90px;
+    margin-left: 20px;
+}
+.btn11{
+    display: flex;
+    justify-content: end;
+   
+}
+.b222{
+background-color: rgb(231, 231, 245);
+/* border: none; */
+/* height: 30px; */
+/* width: 100%; */
+
+margin-left: -120px;
+margin-top: 20px;
+
+}
+.b333{
+    background-color: rgb(231, 231, 245);
+    margin-left: -200px;
+    margin-top: 20px;
+}
